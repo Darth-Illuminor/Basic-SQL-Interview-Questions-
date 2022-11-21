@@ -1,0 +1,34 @@
+Question 1: --> What is Data?
+
+    Data are the collection of facts or information related to any object in consideration. For example it can be age(numeric data) of different persons, 
+    data represented in excel sheet(structured data), contents uploaded in the social media. 
+  
+Question 2: --> What is a Database?
+
+    A database is a systematic collection of data which support storage and manipulation of data in a easy way. Example: a telephone directory is a database for the 
+    telephone numbers. 
+    All the user informations of facebook and the customer information of amazon stores constitute a database.
+    
+Question 3: --> Why do you think a Database is needed?
+
+    * A database is needed because while doing data entry files in a spreadsheet like excel, it becomes difficult to manage the accuracy as there are no 
+    validations present in it.
+    * Manual validation of thousands of entries and verification are near impossible to do efficiently.
+    * With the database, there is flexibility to update the data as per convenience. Multiple people can also edit data at same time which is a big plus
+    * The data is less secure in spreadsheets which makes it easy for anyone to easily access the files and can make changes. With databases
+    you are provided with security groups and privileges that you can set to restrict access
+    
+Question 4: --> What is a DBMS? Name some of the common DBMS.
+    
+    DBMS is abbrevated as DataBase Management System. It is actually a set of programs that are used to view and manipate the data in the database.
+
+Question 5:
+Question 6:
+Question 7:
+Question 8:
+Question 9:
+Question 10:
+Question 11:
+Question 12:
+Question 13:
+Question 14:

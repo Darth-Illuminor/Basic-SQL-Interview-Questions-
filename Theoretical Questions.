@@ -20,10 +20,37 @@ Question 3: --> Why do you think a Database is needed?
     
 Question 4: --> What is a DBMS? Name some of the common DBMS.
     
-    DBMS is abbrevated as DataBase Management System. It is actually a set of programs that are used to view and manipate the data in the database.
+    DBMS is abbrevated as DataBase Management System. It is actually a set of programs that are used to view and manipate the data in the database. 
+    The most common DBMS are MySQL, SSMS(SQL Server Management Studio), Oracle RDBMS(Relational DataBase Management System).
+   
+Question 5: --> What is the difference between SQL and NoSQL?
 
-Question 5:
-Question 6:
+    SQL-
+        $ The type of Database SQL handles is relational database.
+        $ The structed data are stored in the form of tables with Instances and Records.
+        $ The online data sharing is excellent.
+        $ The database are in compliance with the ACID (Atomicity, Consistency, Isolation, Durability) properties.
+    NOSQL-
+        $ The type of Database NOSQL handles is non-relational database.
+        $ The unstructed data are stored in the JSON file format.
+        $ The online data sharing is considered average compared with SQL.
+        $ The database are in compliance with the CAP (Consistency, Availability & Partition Tolerance) theorem
+
+Question 6: --> What are the datatypes?
+    a. Numerics                 Range
+        i.   bigint          - (-9223372036854775808 to 9223372036854775807)
+        ii.  int             - (- 2147483648 to 2147483647)
+        iii. smallint        - (-32768 to 32737)
+        iv.  tinyint         - (0 - 255)
+        v.   decimal(s,d)    - (-10^38+1 to 10^38-1)
+    b. Character
+        i.   Char(s)         - (255 characters)
+        ii.  Varchar(s)      - (255 characters)
+        iii. text            - 
+        iv. 
+     
+    c. Date-Time
+    
 Question 7:
 Question 8:
 Question 9:

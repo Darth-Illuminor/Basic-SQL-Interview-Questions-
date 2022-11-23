@@ -43,13 +43,16 @@ Question 6: --> What are the datatypes?
         iii. smallint        - (-32768 to 32737)
         iv.  tinyint         - (0 - 255)
         v.   decimal(s,d)    - (-10^38+1 to 10^38-1)
-    b. Character
+    b. Character                Range
         i.   Char(s)         - (255 characters)
         ii.  Varchar(s)      - (255 characters)
-        iii. text            - 
+        iii. text            - (65,535 characters)
         iv. 
      
     c. Date-Time
+        i.   Date            -
+        ii.  Time            -
+        iii. Year            -
     
 Question 7:
 Question 8:

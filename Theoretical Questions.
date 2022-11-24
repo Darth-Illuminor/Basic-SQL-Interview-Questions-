@@ -49,10 +49,10 @@ Question 6: --> What are the datatypes?
         iii. text            - (65,535 characters)
         iv. 
      
-    c. Date-Time
-        i.   Date            -
-        ii.  Time            -
-        iii. Year            -
+    c. Date-Time                Format
+        i.   Date            - YYYY-MM-DD
+        ii.  Time            - HH:MM:SS
+        iii. Year            - YYYY
     
 Question 7:
 Question 8:

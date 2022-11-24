@@ -47,15 +47,17 @@ Question 6: --> What are the datatypes?
         i.   Char(s)         - (255 characters)
         ii.  Varchar(s)      - (255 characters)
         iii. text            - (65,535 characters)
-        iv. 
      
     c. Date-Time                Format
         i.   Date            - YYYY-MM-DD
         ii.  Time            - HH:MM:SS
         iii. Year            - YYYY
     
-Question 7:
-Question 8:
+Question 7: --> What is CRUD opertion in SQL?
+
+    The ability to perform Create, Read, Update and Delete operations in SQL is called the Crud Operations.
+    
+Question 8: -->
 Question 9:
 Question 10:
 Question 11:
